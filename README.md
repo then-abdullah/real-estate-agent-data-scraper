@@ -1,14 +1,14 @@
 # real-estate-agent-data-scraper
 Python-based real estate agent data extraction project using DrissionPage and BeautifulSoup. Collects publicly available agent information and exports structured data into CSV and JSON files.
-# Real Estate Agent Data Scraper
+## Real Estate Agent Data Scraper
 
 A Python-based web scraping project designed to collect and organize publicly available real estate agent information from online directories.
 
-## Project Overview
+### Project Overview
 
 This project demonstrates web scraping and data automation techniques for extracting structured real estate agent information.
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - DrissionPage
@@ -16,7 +16,7 @@ This project demonstrates web scraping and data automation techniques for extrac
 - CSV
 - JSON
 
-## Data Collected
+### Data Collected
 
 - Agent Name
 - Brokerage Name
@@ -25,7 +25,7 @@ This project demonstrates web scraping and data automation techniques for extrac
 - City
 - State
 
-## Key Features
+### Key Features
 
 - Automated data extraction
 - Structured data collection
@@ -34,16 +34,16 @@ This project demonstrates web scraping and data automation techniques for extrac
 - CSV and JSON export
 - Scraping activity logging
 
-## Output Files
+### Output Files
 
 - `agents_data.csv`
 - `agents_data.json`
 
-## Project Purpose
+### Project Purpose
 
 The purpose of this project is to demonstrate practical Python web scraping skills, structured data extraction, and automation for real estate research.
 
-## Author
+### Author
 
 **Abdullah Sajid**
 
