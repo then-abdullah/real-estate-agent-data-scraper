@@ -38,7 +38,6 @@ This project demonstrates web scraping and data automation techniques for extrac
 
 - `agents_data.csv`
 - `agents_data.json`
-- `scraping_log.json`
 
 ## Project Purpose
 
